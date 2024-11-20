@@ -102,6 +102,8 @@ header aside {
     justify-content: flex-end;
 } 
 .burger-menu li a {
+    font-size: 12px;
+    font-weight: bold;
     right: 0;
 }
 #main-logo {
@@ -981,5 +983,8 @@ form h4, form p{
     }
     .btn i {
         font-size: 0.8em;
+    }
+    .burger-menu li a {
+
     }
 }   
