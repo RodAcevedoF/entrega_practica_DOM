@@ -90,14 +90,14 @@ header aside {
     font-size: 12px;
     opacity: 0.9;
     gap: 10%;
-    padding-left: 25px;
+    padding-left: 30px;
     justify-content: center;
     transform: translateY(0);
     animation: fade-in 0.5s ease-in-out;
 }
 .burger-menu li {
     display: flex;
-    width: 60%;
+    width: 80%;
     height: auto;
     transition: 0.25s ease-in-out;
     justify-content: flex-end;
