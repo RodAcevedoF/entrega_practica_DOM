@@ -126,6 +126,7 @@ header aside {
     height: 35%;    
     align-self: center;
     justify-self: center;
+    justify-items: center;
     color: var(--var-letter-color);
     font-weight: bold;
     background-color: var(--var-back-color);
