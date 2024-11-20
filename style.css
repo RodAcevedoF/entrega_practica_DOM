@@ -90,6 +90,7 @@ header aside {
     font-size: 12px;
     opacity: 0.9;
     gap: 10%;
+    padding-left: 25px;
     justify-content: center;
     transform: translateY(0);
     animation: fade-in 0.5s ease-in-out;
