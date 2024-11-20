@@ -985,7 +985,7 @@ form h4, form p{
     .btn i {
         font-size: 0.8em;
     }
-    .burger-menu li a {
-
+    .featured ul li button {
+        font-size: 15px;
     }
 }   
