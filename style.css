@@ -969,8 +969,8 @@ form h4, form p{
 }
 @media screen and (max-width: 395px) {
     .burger-button {
-        width: 4.2em;
-        height: 3.5em;
+        width: 3.8em;
+        height: 3.1em;
     }
     .search .input {
         margin-left: -2200%;
@@ -986,6 +986,6 @@ form h4, form p{
         font-size: 0.8em;
     }
     .featured ul li button {
-        font-size: 15px;
+        font-size: 14px;
     }
 }   
