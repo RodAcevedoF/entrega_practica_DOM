@@ -301,7 +301,7 @@ const showCase = [
     price: "75.99€",
     url: "https://outlaws.amsterdam/products/the-truster-necklace",
     image:
-      "https://scontent.cdninstagram.com/v/t51.29350-15/459346580_537182322085715_8525628445552000332_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=wH3TdBHmIhYQ7kNvgHG7TAv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ABZEJVdNz1bhYnM3rNSAxzN&oh=00_AYDRNjBOlnZsVuv-uOdoFr-8U89KbVZ7YN67lVvZTnSHKg&oe=67423F2C",
+      "https://i.postimg.cc/FKr8LHqM/compass-of-life-necklace-155282.jpg",
     imageB:
       "https://outlaws.amsterdam/cdn/shop/files/the-truster-necklace-920453_77162dd3-814e-4def-b153-991e881f0dc0.jpg?v=1692192822&width=700"
   },
