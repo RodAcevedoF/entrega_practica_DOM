@@ -310,7 +310,7 @@ const showCase = [
     price: "80.90€",
     url: "https://www.northanvikingsilver.com/collections/rings/products/viking-wolf-head-ring",
     image:
-      "https://i.postimg.cc/5tsGqMW6/photo-1568735264348-2e141c082d37.jpg",
+      "https://i.postimg.cc/L8PbnxWz/royal-flush-884025.jpg",
     imageB:
       "https://www.northanvikingsilver.com/cdn/shop/products/Viking_wolf_head_ring_2_1000x.JPG?v=1550324463"
   },
@@ -318,7 +318,7 @@ const showCase = [
     name: "Norseman Ring",
     price: "25.99€",
     image:
-      "https://i.postimg.cc/XYctqC2K/photo-1516784531696-d7eb4526782d.jpg",
+      "https://i.postimg.cc/hGq3x9FN/vikings-gold-366990.jpg",
     imageB:
       "https://outlaws.amsterdam/cdn/shop/products/vikings-silver-516596.jpg?v=1643350266&width=1000"
   }
