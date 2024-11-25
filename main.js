@@ -310,7 +310,7 @@ const showCase = [
     price: "80.90€",
     url: "https://www.northanvikingsilver.com/collections/rings/products/viking-wolf-head-ring",
     image:
-      "https://scontent.cdninstagram.com/v/t51.29350-15/454388259_1165617451322456_1134196090441012492_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=CmjPngROUeUQ7kNvgFZFUQQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ABZEJVdNz1bhYnM3rNSAxzN&oh=00_AYAIWODaTMjEbXb9RJQUJ8UqXVavUNKy5KyHKPdezudMuw&oe=674246BF",
+      "https://i.postimg.cc/5tsGqMW6/photo-1568735264348-2e141c082d37.jpg",
     imageB:
       "https://www.northanvikingsilver.com/cdn/shop/products/Viking_wolf_head_ring_2_1000x.JPG?v=1550324463"
   },
@@ -318,7 +318,7 @@ const showCase = [
     name: "Norseman Ring",
     price: "25.99€",
     image:
-      "https://scontent.cdninstagram.com/v/t51.29350-15/461522178_516948607939034_550936271762172549_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=VQtit9PXepwQ7kNvgHRIrF5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ABZEJVdNz1bhYnM3rNSAxzN&oh=00_AYBYGdlCbE6KX5pOCgEwGtkKcdtNgc5pU-C2FLZWZ7X6YA&oe=674257BA",
+      "https://i.postimg.cc/XYctqC2K/photo-1516784531696-d7eb4526782d.jpg",
     imageB:
       "https://outlaws.amsterdam/cdn/shop/products/vikings-silver-516596.jpg?v=1643350266&width=1000"
   }
