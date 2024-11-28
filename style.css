@@ -267,6 +267,7 @@ header aside {
 @keyframes gallery {
     0%{
         background-image: url(https://images.unsplash.com/photo-1651614698510-3f923136e6cb?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    
     }
     25%{
         background-image: url(https://images.unsplash.com/photo-1503314885798-a70f8f9028d3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
@@ -614,7 +615,7 @@ header aside {
 }
 .fades {
     max-width: 80%;
-    height: auto;
+    height: 70vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -626,6 +627,7 @@ header aside {
     max-width: 20%;
     min-width: 140px;
     height: auto;
+
     flex-direction: column;
     align-items: center;
     transition: 0.25s ease-in-out;
@@ -966,6 +968,9 @@ form h4, form p{
     .div-atelier {
         max-width: 80%;
     }
+    .fades {
+        height: 80vh;
+    }
 }
 @media screen and (max-width: 395px) {
     .burger-button {
@@ -988,4 +993,14 @@ form h4, form p{
     .featured ul li button {
         font-size: 14px;
     }
-}   
+    .fades {
+        height: 100vh;
+    }
+    .end-section div {
+        justify-content: center;
+        padding: 20px;
+    }
+    .about article:nth-child(2) {
+        align-self: flex-start;
+    }   
+}
